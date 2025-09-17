@@ -427,3 +427,4 @@ Cloud Computing Club: [Huskies-Connect](https://huskiesconnect.stcloudstate.edu/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
 - Amilllzz — added for class assignment
+- Contributed by amilllzz for class assignment
